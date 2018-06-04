@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=g\ x\ y
+comment0.target=void\ paintDialog(java.awt.Graphics,\ int,\ int)
+comment1.params=
+comment1.target=java.lang.String\ pupDialog()
+comment2.params=i
+comment2.target=java.lang.String\ getDialog(int)
+numComments=3

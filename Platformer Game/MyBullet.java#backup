@@ -1,0 +1,10 @@
+public class MyBullet extends GameObject{
+    public static int size = 5;
+    
+    public MyBullet(Character c){
+        super(c.x, c.y, size, size);
+        dx = 5;
+        dy = Math.random() * 2 - 1;
+        color = Color.BLACK;
+    }
+}

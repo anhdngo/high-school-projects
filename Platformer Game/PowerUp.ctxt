@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=PowerUp(int,\ int)
+comment1.params=powerups
+comment1.target=void\ updatePowerUps(java.util.ArrayList)
+comment2.params=c
+comment2.target=void\ interact(Character)
+comment3.params=
+comment3.target=void\ powerUpEffect()
+comment4.params=
+comment4.target=void\ dialogReset()
+numComments=5

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=c
+comment0.target=MyBullet(Character)
+comment1.params=
+comment1.target=MyBullet()
+comment2.params=x\ y\ dx
+comment2.target=MyBullet(int,\ int,\ double)
+comment3.params=
+comment3.target=void\ burst()
+comment4.params=c
+comment4.target=void\ arrowShot(Character)
+comment5.params=myBullets\ enemies
+comment5.target=void\ update(java.util.ArrayList,\ java.util.ArrayList)
+numComments=6

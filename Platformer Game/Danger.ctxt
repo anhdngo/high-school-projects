@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=x\ y\ sizeX\ sizeY
+comment0.target=Danger(int,\ int,\ int,\ int)
+comment1.params=c
+comment1.target=void\ interact(Character)
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Particle()
+comment1.params=bool
+comment1.target=Particle(boolean)
+comment2.params=particles
+comment2.target=void\ initialize(java.util.ArrayList)
+comment3.params=particles
+comment3.target=void\ update(java.util.ArrayList)
+numComments=4
