@@ -1,0 +1,17 @@
+3/10/17 - v3.0
+-Created basic framework of the game, a huge improvement from the Touhou shooter that was 2.0
+	-Actually does collisions now!
+
+3/21/17 - v3.1
+-Added meter that depletes on slow
+-Added enemies that shoot bullets
+-Added pause on death
+-Added bombs and stuff
+-Did like everything
+
+3/22/17 - v3.2
+-Edited self bullet visibility
+-Added material design colors
+-Added bullet speed difficulty spike
+-Added red screen on bomb
+-Added BG change while using slow
